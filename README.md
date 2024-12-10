@@ -42,7 +42,3 @@
 *Without change or challenge, growth cannot exist. My mantra is to always stay curious, creative, and collaborative.* 
 
 Want to work together? Connect with me on LinkedIn. 
-
-![Code]([[URL_to_your_gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQzbG5kNnBnaDZjZWh1MG5vcnBzbWM3aWI2MmZpcWhvYTJvMHdpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)]())
-
-
